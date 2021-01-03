@@ -1,0 +1,9 @@
+cmake
+numpy
+argparse
+dropbox
+imutils
+dlib
+opencv-python
+#@echo off
+#pip intall
